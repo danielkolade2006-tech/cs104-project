@@ -1,5 +1,4 @@
-# [Your Project Name Here]
-> Sports IQ Challenge
+# Sports IQ Challenge
 
 ## Overview
 > This program, Rookie to Fanatic, is a knowledge-based quiz that tests users on general sports trivia spanning tennis, basketball, the Olympics, soccer, and the FIFA World Cup. Users are asked a series of multiple-choice and yes/no questions about well-known sports facts. Each time a user answers correctly, their score increases by one point. If a user misses a key question early on, they're given a second-chance nested question to try again before moving on. At the end of the quiz, the program uses the user's final score to determine their sports knowledge level — displaying one of three results: "Rookie," "Solid Fan," or "Sports Fanatic" — along with an encouraging, tailored message based on how they did.
